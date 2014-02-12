@@ -1,12 +1,12 @@
 Linux Command Line Collections 
 ======================
 
-lcmd
+*lcmd*
 -------
 
-1. Serving HTTP on 0.0.0.0 port 8000 
+1. Serving HTTP on 0.0.0.0 port 8000
 
-        `python -m SimpleHTTPServer`
+        `__python -m SimpleHTTPServer__`
 
 2. save root file in vi when you forget typing sudo
 
