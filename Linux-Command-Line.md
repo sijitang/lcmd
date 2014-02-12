@@ -13,5 +13,6 @@ lcmd
 
         ``` bash
         :w !sudo tee %
+        ```
 
 
