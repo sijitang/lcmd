@@ -5,7 +5,7 @@ gryc
 -------
 
 1. groovy map sort with value, reverse sort
-
+    ```python
     def map = [a:3, b:2, c:1]
     map = map.sort {it.value}
     assert map == 1
