@@ -11,10 +11,7 @@ lcmd
 2. save root file in vi when you forget typing sudo
 ```bash
 :w !sudo tee %
-
-
-
-
+```
 
 
 
