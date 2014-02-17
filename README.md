@@ -6,6 +6,3 @@ Linux Command Line collections(lcmd)
 
 groovy collections(gryc)
 ------------------------------------------------------
-
-
-
