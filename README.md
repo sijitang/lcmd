@@ -4,10 +4,8 @@ This is my first Repo
 Linux Command Line collections(lcmd)
 ------------------------------------------------------
 
-**complicated**
+groovy collections(gryc)
+------------------------------------------------------
 
-```sql
-SELECT * FROM DUMMY;
-```
 
 
