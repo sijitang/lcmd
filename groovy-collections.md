@@ -18,3 +18,26 @@ gryc
     assert map == 1
     ```
 
+3. Dae, TimeCategory
+    ```python
+    def today = new Date()
+    today = today.clearTime()
+    today = today.minus(2) // minus 2 days
+    ```
+    ```python
+    import groovy.time.TimeCategory
+
+    use(TimeCategory) {
+            today = today + 23.hours + 59.minutes + 59.seconds
+    }
+    ```
+
+4. Counting the Items in a List
+    ```python
+    def list = [0, 1, 2, 1, 1, 3, 2, 0, 1]
+    list.size()
+    list.count(0)
+    list.count(1)
+    list.count(2)
+    list.count(3)
+    ```
