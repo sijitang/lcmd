@@ -11,4 +11,7 @@
 	- alt(option)+space
 	- shift+alt+space
 
-
+5. brew 
+	- /usr/local/bin
+6. brew cask
+	-/opt/homebrew-cask/Caskroom
