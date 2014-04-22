@@ -39,4 +39,9 @@ lcmd
     $ ack --help-type
     ```
 
+8. use less command to view log
+     ```bash
+    $ less -Rinf gs-admin.log
+    ```
+
 
