@@ -1,0 +1,17 @@
+1. maximize/minimize app windows
+	-  shift+mac+m
+
+2. switch languages
+	- shift+ctrl+space
+
+3. show Desktop
+	- F11
+
+4. view file
+	- alt(option)+space
+	- shift+alt+space
+
+5. brew 
+	- /usr/local/bin
+6. brew cask
+	-/opt/homebrew-cask/Caskroom
