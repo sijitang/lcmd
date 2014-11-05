@@ -44,4 +44,67 @@ lcmd
     $ less -Rinf gs-admin.log
     ```
 
+9. cd switch between latest directory
+     ```bash
+    $ cd -
+    ```
 
+10. use less command to view log
+     ```bash
+    $ less -Rinf gs-admin.log
+    ```
+
+11. list human readable files
+     ```bash
+    $ ls -lha 
+    ```
+
+12. find 
+     ```bash
+    $ find /var -name basic.ics 
+    $ find /var -user sijitang 
+    ```
+
+13. locate 
+     ```bash
+    $ locate -i basic.ics 
+    ```
+
+14. history 
+     ```bash
+    $ history|grep ps
+    ```
+
+15. ctrl+L  = clear
+
+16. ctrl+D = exit
+
+17. unzip chinese language file 
+     ```bash
+    $ unzip -O cp936 luo.zip
+    ```
+
+18. List open network ports and sockets
+     ```bash
+    $ lsof -i
+    ```
+
+19. Periodically execute the specified command
+     ```bash
+    $ watch -n 10 who
+    ```
+
+20. screen
+     ```bash
+    $ screen
+    create new screen: ctrl+A - C
+    switch screen: ctrl+A - N
+    detach screen: ctrl+A - D
+    retach screen: screen -r xxx
+    ```
+
+21. find bios(   Linux-Dell-Bios-Info)
+```bash
+sudo dmidecode -s bios-version
+sudo dmidecode -s bios-release-date
+ ```
