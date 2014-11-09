@@ -45,14 +45,13 @@
 - ctrl+tab  switch tab
 - cmd+alt+左右  switch tab
 
-
-
+13.
 cmd +H hide windows
 cmd+alt+h hide all windows except used one
 cmd+alt+m+h  hide all windows
 
+14.
 sudo halt or sudo shutdown -h now
 sudo shutdown -h 20:00
-
 sudo reboot
 sudo shutdown -r now
