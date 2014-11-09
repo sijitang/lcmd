@@ -15,3 +15,44 @@
 	- /usr/local/bin
 6. brew cask
 	-/opt/homebrew-cask/Caskroom
+
+7. iterm hotkey
+- cmd+#   show/hide iterm window 
+- cmd + enter   full screen
+- cmd + shift +M       maximize/revert
+- cmd + ,    iterm setting
+- cmd+d,    v split
+- cmd+shift+d,  h split
+- cmd+shift +方向  swtich split panel
+- cmd +t  new tab
+- cmd +w close tab
+- cmd + 左/右  swich tab
+- cmd + n  new window
+- cmd+q  close window
+- ctrl+alt+ 左/右 switchwindow 
+- cmd+f   search
+
+8. F11  show desktop
+
+9. ctrl + 左/右 switch desktop
+
+10. ctrl + 上/下 exposel
+
+11. cmd+shift + L: show launchpad
+
+12. firefox:
+- F6 or ctrl+L  select 地址栏
+- ctrl+tab  switch tab
+- cmd+alt+左右  switch tab
+
+
+
+cmd +H hide windows
+cmd+alt+h hide all windows except used one
+cmd+alt+m+h  hide all windows
+
+sudo halt or sudo shutdown -h now
+sudo shutdown -h 20:00
+
+sudo reboot
+sudo shutdown -r now
